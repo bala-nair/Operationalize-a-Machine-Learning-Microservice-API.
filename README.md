@@ -26,6 +26,10 @@ The project goal is to operationalize this working, machine learning microservic
 
 <bold># make install</bold>
 
+<h4>Pass Lint</h4>
+
+<bold># make lint</bold>
+
 Making use of the Makefile and requirements.txt file
 
 <h3>Task 2: Run a Container & Make a Prediction</h3> 
