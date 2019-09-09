@@ -34,6 +34,9 @@ Making use of the Makefile and requirements.txt file
 
 <h3>Task 2: Run a Container & Make a Prediction</h3> 
 
+<bold># sudo ./run_docker.sh</bold>
+
+<bold># sudo ./make_predictions.sh</bold>
 
 <h3>Task 3: Improve Logging & Save Output</h3> 
 
