@@ -17,10 +17,13 @@ The project goal is to operationalize this working, machine learning microservic
 <h3>Task 1: Complete the Dockerfile</h3>
 
 <h4>Create An Environment and Activate</h4>
+
 <bold># python3 -m venv venv</bold>
+
 <bold># source venv/bin/activate</bold>
 
 <h4>Run Make Install</h4>
+
 <bold># make install</bold>
 
 Making use of the Makefile and requirements.txt file
