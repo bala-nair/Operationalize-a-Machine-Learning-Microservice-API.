@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html>
-   <head>
-      <title>HTML text bold</title>
-   </head>
+   <h1>Operationalize a Machine Learning Microservice API</h1>
 
    <body>
-      <h1>Project Overview<h1>
+      <h2>Project Overview</h2>
 
 In this project, we have been asked to apply the skills that we have acquired in this course to operationalize a Machine Learning Microservice API.
 
