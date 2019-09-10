@@ -81,7 +81,7 @@ boston-house-prices-85bd96c6b7-gn477   1/1     Running   0          14m
 NAME                  TYPE       CLUSTER-IP      EXTERNAL-IP   PORT(S)          AGE
 boston-house-prices   NodePort   10.104.66.127   <none>        8000:32208/TCP   14m
 
-
+<h4><bold> Output logs are available in files docker_out.txt and kubernetes_out.txt</h4></bold>
 
 <h3>Task 7: [Important] Delete Cluster</h3> 
 
