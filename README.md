@@ -91,8 +91,10 @@ boston-house-prices   NodePort   10.104.66.127   <none>        8000:32208/TCP   
 
 <h3>Task 8: CircleCI Integration</h3> 
 
+<bold> create .circleci/config.yml in the github repository </bold>
 
-<h3>Task 9: README.md</h3> 
+<bold> [![CircleCI](https://circleci.com/gh/bala-nair/Operationalize-a-Machine-Learning-Microservice-API..svg?style=svg)](https://circleci.com/gh/bala-nair/Operationalize-a-Machine-Learning-Microservice-API.)</bold>
+
 
 
 
