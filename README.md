@@ -40,7 +40,8 @@ Making use of the Makefile and requirements.txt file
 
 <h3>Task 3: Improve Logging & Save Output</h3> 
 
-<bold># cat docker_out.txt
+<bold># cat docker_out.txt</bold>
+
  AttributeError: 'LeastSquaresError' object has no attribute 'get_init_raw_predictions'
 [2019-09-09 13:30:29,418] INFO in app: JSON payload: 
 {'CHAS': {'0': 0}, 'RM': {'0': 6.575}, 'TAX': {'0': 296.0}, 'PTRATIO': {'0': 15.3}, 'B': {'0': 396.9}, 'LSTAT': {'0': 4.98}}
