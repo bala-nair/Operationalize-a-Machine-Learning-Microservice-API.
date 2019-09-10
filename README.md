@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+   
+   [![CircleCI](https://circleci.com/gh/bala-nair/Operationalize-a-Machine-Learning-Microservice-API..svg?style=svg)](https://circleci.com/gh/bala-nair/Operationalize-a-Machine-Learning-Microservice-API.)
+   
    <h1>Operationalize a Machine Learning Microservice API</h1>
 
    <body>
