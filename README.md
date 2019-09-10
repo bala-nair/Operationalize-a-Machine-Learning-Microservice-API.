@@ -56,7 +56,12 @@ Making use of the Makefile and requirements.txt file
 
 <h3>Task 4: Upload the Docker Image</h3> 
 
+<bold># ./uplodad_docker.sh</bold>
 
+Docker ID and Image: bnair75/boston-houseprices-inference:latest
+The push refers to repository [docker.io/bnair75/boston-houseprices-inference]
+a41255a9b34d: Pushed
+latest: digest: sha256:0328a62265b3a17a0efdfc414ad23de9f56fb6bb52a549d62df59755bb9f64b4 size: 3261
 
 <h3>Task 5: Configure Kubernetes to Run Locally</h3> 
 
