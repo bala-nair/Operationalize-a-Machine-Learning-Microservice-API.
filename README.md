@@ -65,6 +65,11 @@ latest: digest: sha256:0328a62265b3a17a0efdfc414ad23de9f56fb6bb52a549d62df59755b
 
 <h3>Task 5: Configure Kubernetes to Run Locally</h3> 
 
+<bold># minikube start</bold>
+
+<bold># kubectl config view</bold>
+
+
 
 <h3>Task 6: Deploy with Kubernetes and Save Output Logs</h3> 
 
