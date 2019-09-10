@@ -40,6 +40,18 @@ Making use of the Makefile and requirements.txt file
 
 <h3>Task 3: Improve Logging & Save Output</h3> 
 
+<bold># cat docker_out.txt
+ AttributeError: 'LeastSquaresError' object has no attribute 'get_init_raw_predictions'
+[2019-09-09 13:30:29,418] INFO in app: JSON payload: 
+{'CHAS': {'0': 0}, 'RM': {'0': 6.575}, 'TAX': {'0': 296.0}, 'PTRATIO': {'0': 15.3}, 'B': {'0': 396.9}, 'LSTAT': {'0': 4.98}}
+[2019-09-09 13:30:29,429] INFO in app: Inference payload DataFrame: 
+   CHAS     RM    TAX  PTRATIO      B  LSTAT
+0     0  6.575  296.0     15.3  396.9   4.98
+[2019-09-09 13:30:29,438] INFO in app: Scaling Payload: 
+   CHAS     RM    TAX  PTRATIO      B  LSTAT
+0     0  6.575  296.0     15.3  396.9   4.98
+172.17.0.1 - - [09/Sep/2019 13:30:29] "POST /predict HTTP/1.1" 500 -
+ 
 
 <h3>Task 4: Upload the Docker Image</h3> 
 
